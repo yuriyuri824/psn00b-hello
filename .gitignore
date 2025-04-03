@@ -1,0 +1,9 @@
+artifacts/
+*.c~
+*.h~
+*.s~
+*.png
+
+*.elf
+*.exe
+nirvana
