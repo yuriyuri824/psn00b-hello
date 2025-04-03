@@ -4,7 +4,13 @@
     
     * (C) 2025 yuriyuri824 - MPL licensed
     * (C) 2020-2023 Lameguy64, spicyjpeg - MPL licensed
+    
+    The TIM texture used in this project is from the Youtube video
+    "【手描き】ワールドイズマイン【PV】"
+    https://youtu.be/qrwVthk38b0?si=EEK1kAX6hi38Z5Bx
 
+    According to https://vocaloid.fandom.com/wiki/ワールドイズマイン_(World_is_Mine)
+    The original artist is called "redjuice"
 */
 
 #include <assert.h>
